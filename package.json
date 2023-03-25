@@ -12,10 +12,6 @@
   },
   "author": "",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/learnwithsumit/chat-application/issues"
-  },
-  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
